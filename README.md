@@ -5,7 +5,7 @@ Changes the font of the Cyberpunk theme to support all letters of the Cyrillic s
 
 Меняет шрифт Киберпак темы на другой для поддержки кирилицы.
 
-Змінює шрифт Кіберканк теми на інший для підтримки кирилиці.
+Змінює шрифт Кіберпанк теми на інший для підтримки кирилиці.
 
 Original font - Rajdhani
 
